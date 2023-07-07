@@ -10,6 +10,9 @@ public class MovieCardDTO {
     private Integer year;
     private String imgUrl;
 
+    public MovieCardDTO() {
+    }
+
     public MovieCardDTO(Long id, String title, String subTitle, Integer year, String imgUrl) {
         this.id = id;
         this.title = title;
