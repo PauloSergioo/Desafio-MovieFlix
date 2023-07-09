@@ -1,4 +1,4 @@
-# PROJETO: MovieFlix - Backend
+# DESAFIO: MovieFlix - Backend
 
 # Sobre o projeto
 
